@@ -38,7 +38,7 @@ new Vue({
 })
 ```
 
-#Simple Checkbox
+#Simple Modal
 import VueSemanticUiModal from 'vue-semantic-ui-modal'
 ```html
 
