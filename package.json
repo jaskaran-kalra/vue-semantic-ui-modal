@@ -1,7 +1,7 @@
 {
   "name": "vue-semantic-ui-modal",
   "description": "Semantic ui Modal built using pure vue js, without using jquery.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jaskaran <wp.jaskaranakalra@gmail.com>",
   "license": "MIT",
   "scripts": {
